@@ -26,6 +26,5 @@ public class groupAnagrams {
             myMap.get(sorted).add(each);
         }
         return new ArrayList<>(myMap.values());
-
     }
 }
