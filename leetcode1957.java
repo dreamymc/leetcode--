@@ -1,4 +1,4 @@
-public class LC1957 {
+public class leetcode1957 {
     public static void main(String[] args) {
         String input = "aaabaaaa";
         System.out.println(makeFancyStringMine(input));

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LC2418 {
+public class leetcode2418 {
     public static void main(String[] args) {
         String names[] = { "Mary", "John", "Emma" };
         int heights[] = { 180, 165, 170 };

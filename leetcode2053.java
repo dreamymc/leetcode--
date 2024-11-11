@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LC2053 {
+public class leetcode2053 {
     public static void main(String[] args) {
         String[] arr = { "d","b","c","b","c","a" };
         int k = 2;

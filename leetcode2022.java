@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LC2022 {
+public class leetcode2022 {
     public static void main(String[] args) {
         int original[] = { 3 };
         int m = 1;

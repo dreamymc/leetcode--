@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LC17 {
+public class leetcode17 {
     public static void main(String[] args) {
         String digits = "23";
         System.out.println(letterCombinations(digits));

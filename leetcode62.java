@@ -1,4 +1,4 @@
-public class LC62 {
+public class leetcode62 {
     public static void main(String[] args) {
         int m = 3, n = 7;
         System.out.println(uniquePaths(m, n));

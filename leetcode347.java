@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LC347 {
+public class leetcode347 {
     public static void main(String[] args) {
         int nums[] = { 1, 1, 1, 2, 2, 3 };
         int k = 2;

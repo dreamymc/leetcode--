@@ -1,10 +1,10 @@
-public class LC2490 {
+public class leetcode2490 {
     public static void main(String[] args) {
-        new LC2490();
+        new leetcode2490();
 
     }
 
-    public LC2490() {
+    public leetcode2490() {
         exe();
     }
 

@@ -1,9 +1,9 @@
-public class isMonotonic {
+public class leetcode896 {
     public static void main(String[] ukiyo) {
-        new isMonotonic();
+        new leetcode896();
     }
 
-    public isMonotonic() {
+    public leetcode896() {
         exe();
     }
 
